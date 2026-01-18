@@ -2,13 +2,9 @@
 
 Developer focused on automation, community tools, and interactive systems.
 
----
-
 ## About
 I build practical systems that help communities run better — from Discord bots and automation tools to web dashboards and realtime game systems.  
 Most of my projects are centered around scalability, stability, and clean structure.
-
----
 
 ## Skills
 
@@ -27,8 +23,6 @@ Most of my projects are centered around scalability, stability, and clean struct
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
----
-
 ## Projects
 
 ### SERVER48 Discord Bot
@@ -43,8 +37,6 @@ Community bot with moderation, games, and automation features.
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
----
-
 ### Tebak Gambar Game System
 Realtime multiplayer guessing game.
 - Automatic image crop (eye detection)
@@ -54,9 +46,6 @@ Realtime multiplayer guessing game.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-
-
----
 
 ### Community Web
 Web platform that collects, processes, and redistributes public JKT48 information into a community-oriented format.
@@ -69,18 +58,12 @@ Web platform that collects, processes, and redistributes public JKT48 informatio
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
----
-
 ## GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vmubyt&show_icons=true&theme=dark)
-
----
 
 ## Contact
 - Instagram: @istakhari.xd
 - Discord: SERVER48
-
----
 
 ## Notes
 I prefer building systems that are useful, maintainable, and easy to extend.
