@@ -1,4 +1,4 @@
-# Alvitto Istakhari
+# Hi I'm Alvitto Istakhari 👋🏻
 
 Developer focused on automation, community tools, and interactive systems.
 
