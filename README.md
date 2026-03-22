@@ -3,13 +3,15 @@
 Developer focused on automation, community tools, and interactive systems.
 
 ## About
-I build practical systems that help communities run better — from Discord bots and automation tools to web dashboards and realtime game systems.  
-Most of my projects are centered around scalability, stability, and clean structure.
+
+I am a university student based in Semarang currently focusing on Python, JavaScript, and React. I build practical systems that help communities run better — from automated Discord bots to fully interactive web dashboards.
+
+As a JKT48 fan, I am the founder and lead developer of the SERVER48 community for JKT48 fans. Building and managing an active user base has given me firsthand experience with the importance of reliable platforms. Because of this, most of my projects are strongly centered around scalability, stability, and clean structure.
 
   <h3>My Skills</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,js,py,discordjs,mysql,supabase" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,js,py,discordjs,nodejs,mysql,supabase" />
   </a>
 </p>
 
