@@ -50,8 +50,16 @@ Web platform that collects, processes, and redistributes public JKT48 informatio
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-## GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vmubyt&show_icons=true&theme=dark)
+## Stats
+
+<p align="center">
+   <a href="https://github.com/vmubyt/">
+   <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api?username=vmubyt&hide=issues&count_private=true&show_icons=true&title_color=58baff&icon_color=58baff&theme=dark" alt="vmubyt's github stats" />
+   </a>
+  <a href="https://github.com/vmubyt/">
+   <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmubyt&hide=lua&layout=compact&title_color=58baff&theme=dark" alt="vmubyt's github stats"/>
+   </a>
+</p>
 
 ## Contact
 - Instagram: @istakhari.xd
