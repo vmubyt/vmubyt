@@ -1,10 +1,10 @@
-# Hi I'm Alvitto Istakhari 👋🏻
+<h1 align="center">Hi, I'm Alvitto Istakhari 👋🏻</h1>
 
-Developer focused on automation, community tools, and interactive systems.
+<p align="center">I am very interested in Discord bot and Website development.</p>
 
 ## About
 
-I am a university student based in Semarang currently focusing on Python, JavaScript, and React. I build practical systems that help communities run better — from automated Discord bots to fully interactive web dashboards.
+I am a student at UDINUS based in Semarang currently focusing on Python, JavaScript, and React. I build practical systems that help communities run better — from automated Discord bots to fully interactive web dashboards.
 
 As a JKT48 fan, I am the founder and lead developer of the SERVER48 community for JKT48 fans. Building and managing an active user base has given me firsthand experience with the importance of reliable platforms. Because of this, most of my projects are strongly centered around scalability, stability, and clean structure.
 
@@ -39,7 +39,7 @@ Realtime multiplayer guessing game.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
-### [Community Web](https://server48.my.id/)
+### [SERVER48 Community Website](https://server48.my.id/)
 Web platform that collects, processes, and redistributes public JKT48 information into a community-oriented format.
 
 - Data normalization & presentation
