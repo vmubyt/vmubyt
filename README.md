@@ -73,7 +73,7 @@ Web platform that collects, processes, and redistributes public JKT48 informatio
 
 ## Contact
 - Instagram: [@istakhari.xd](https://instagram.com/istakhari.xd)
-- Discord: [SERVER48](https://discord.gg/server48)
+- Discord: [SERVER48](https://discord.com/invite/289xFUnpyd)
 
 ## Notes
 I prefer building systems that are useful, maintainable, and easy to extend.
