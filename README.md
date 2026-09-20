@@ -38,7 +38,7 @@ Realtime multiplayer guessing game.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
-### SERVER48 Live Auto-Notification Bot
+### [SERVER48 Live Auto-Notification Bot](https://github.com/vmubyt/jkt48-live-notifer)
 Automated live stream monitoring and notification dispatcher.
 - Real-time stream monitoring across multiple platforms (Showroom & IDN Live)
 - Intelligent session tracking to prevent duplicate notifications
@@ -73,7 +73,7 @@ Web platform that collects, processes, and redistributes public JKT48 informatio
 
 ## Contact
 - Instagram: [@istakhari.xd](https://instagram.com/istakhari.xd)
-- Discord: [SERVER48](https://discord.com/invite/289xFUnpyd)
+- Discord: [SERVER48](https://discord.gg/server48)
 
 ## Notes
 I prefer building systems that are useful, maintainable, and easy to extend.
